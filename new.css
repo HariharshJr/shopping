@@ -1,0 +1,64 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+    color: white;
+}
+
+.reester{
+    width: 100%;
+    text-align: center;
+}
+li{
+    display: inline;
+    color: grey;
+}
+li:hover{
+    color: darkred;
+    cursor: pointer;
+}
+img{
+    width: 220px;
+    height: 220px;
+    display: inline-block;
+}
+.box{
+    padding: 20px;
+    margin: 20px;
+    background-color: white;
+    display: inline-block;
+    border-color: black;
+    border-width: 2px;
+    width: 220px;
+    border-style: solid;
+    
+}
+p{
+    color: black;
+    background-color: white;
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+}
+
+.items{
+    margin-top: 20px;
+    background-color: white;
+    text-align: center;
+}
+.contact{
+    text-align: center;
+    
+}
+table{
+    display: inline;
+}
+
+button{
+    background-color: yellow;
+    color: black;
+    padding: 5px;
+    width: 50%;
+    margin: 3px;
+    font-style: initial;
+}
